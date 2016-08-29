@@ -77,7 +77,6 @@ E:\Dev\GitHub\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
 E:\Dev\GitHub\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.xml
 E:\Dev\GitHub\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Dev\GitHub\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.dll
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.pdb
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitalModel.resources
