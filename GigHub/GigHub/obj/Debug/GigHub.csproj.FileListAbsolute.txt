@@ -82,3 +82,5 @@ E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.dll
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.pdb
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitalModel.resources
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CleanUpGenreAndGigs.resources
