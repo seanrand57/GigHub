@@ -84,3 +84,7 @@ E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cach
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CleanUpGenreAndGigs.resources
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.Updates.resources
+E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddingKeysToGig.resources
+E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.UpdateGigsToIncludeId.resources
+E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.Check.resources

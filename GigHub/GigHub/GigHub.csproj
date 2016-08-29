@@ -218,6 +218,22 @@
     <Compile Include="Migrations\201608291650298_PopulateGenresTable.Designer.cs">
       <DependentUpon>201608291650298_PopulateGenresTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201608291741450_Updates.cs" />
+    <Compile Include="Migrations\201608291741450_Updates.Designer.cs">
+      <DependentUpon>201608291741450_Updates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608291802548_AddingKeysToGig.cs" />
+    <Compile Include="Migrations\201608291802548_AddingKeysToGig.Designer.cs">
+      <DependentUpon>201608291802548_AddingKeysToGig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608291910169_UpdateGigsToIncludeId.cs" />
+    <Compile Include="Migrations\201608291910169_UpdateGigsToIncludeId.Designer.cs">
+      <DependentUpon>201608291910169_UpdateGigsToIncludeId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608291920329_Check.cs" />
+    <Compile Include="Migrations\201608291920329_Check.Designer.cs">
+      <DependentUpon>201608291920329_Check.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -227,7 +243,9 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="ViewModels\FutureDate.cs" />
     <Compile Include="ViewModels\GigFormViewModel.cs" />
+    <Compile Include="ViewModels\ValidTime.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\aspnet-GigHub-20160829123233.mdf" />
@@ -316,6 +334,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201608291650298_PopulateGenresTable.resx">
       <DependentUpon>201608291650298_PopulateGenresTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608291741450_Updates.resx">
+      <DependentUpon>201608291741450_Updates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608291802548_AddingKeysToGig.resx">
+      <DependentUpon>201608291802548_AddingKeysToGig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608291910169_UpdateGigsToIncludeId.resx">
+      <DependentUpon>201608291910169_UpdateGigsToIncludeId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608291920329_Check.resx">
+      <DependentUpon>201608291920329_Check.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
