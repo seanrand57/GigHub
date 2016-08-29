@@ -1,0 +1,54 @@
+    ======  ======
+    Time:8/29/2016 12:16:19 PM
+    Title: Initiate log
+    Message: 
+    Time:8/29/2016 12:16:19 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:8/29/2016 12:16:19 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:8/29/2016 12:16:19 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:8/29/2016 12:16:19 PM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:8/29/2016 12:16:19 PM
+    Title: LICENSER
+    Message: DS LEFT2
+    Time:8/29/2016 12:16:19 PM
+    Title: LICENSER
+    Message: DT MARK PASSED2.00:00:00
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering constructor for: TechTalk.SpecFlow.VsIntegration.SpecFlowPackagePackage
+    Entering Initialize() of: TechTalk.SpecFlow.VsIntegration.SpecFlowPackagePackage
+    Entering constructor for: Microsoft.SyncfusionAssemblyReference.SyncfusionAssemblyReferencePackage
+    Entering Initialize() of: Microsoft.SyncfusionAssemblyReference.SyncfusionAssemblyReferencePackage
+    TestWindow package loaded
+    Informational: ------ Load Playlist started ------
+    Informational: ========== Load Playlist finished (0:00:00.0030003) ==========
+    Web method running: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=94&lastChangeId64=94] (GET)connectionData[connectionData]
+    Web method running: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=94&lastChangeId64=94] (GET)connectionData[connectionData]
+    Web method response: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=94&lastChangeId64=94] (GET)connectionData[connectionData] 504 ms
+    Web method response: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=94&lastChangeId64=94] (GET)connectionData[connectionData] 251 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=6776&lastChangeId64=6776] (GET)connectionData[connectionData]
+    Web method running: [https://app.vssps.visualstudio.com/_apis/Accounts?memberId=3c8939ea-4933-43de-9701-30b57fec2a75&includeOwner=true] (GET)Accounts[Accounts]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=None&lastChangeId=6776&lastChangeId64=6776] (GET)connectionData[connectionData] 346 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+    Web method response: [https://app.vssps.visualstudio.com/_apis/Accounts?memberId=3c8939ea-4933-43de-9701-30b57fec2a75&includeOwner=true] (GET)Accounts[Accounts] 478 ms
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile] 320 ms
+    Web method running: [https://seanrand.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=27856901&lastChangeId64=27856901] (GET)connectionData[connectionData]
+    Web method running: [https://app.vssps.visualstudio.com/_apis/identities/me] (GET)me[identities]
+    Web method response: [https://app.vssps.visualstudio.com/_apis/identities/me] (GET)me[identities] 50 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 74 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 48 ms
+    Web method response: [https://seanrand.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=27856901&lastChangeId64=27856901] (GET)connectionData[connectionData] 1137 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile] 63 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=521586] (GET)Attributes[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=521586] (GET)Attributes[Profile] 179 ms
+    devenv.exe Information: 0 : 8/29/2016 3:17:02 PM:  - TokenCache: Deserialized 3 items to token cache.
