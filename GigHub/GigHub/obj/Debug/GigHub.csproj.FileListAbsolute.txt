@@ -84,3 +84,4 @@ E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitalModel.resou
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CleanUpGenreAndGigs.resources
+E:\Dev\GitHub\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
