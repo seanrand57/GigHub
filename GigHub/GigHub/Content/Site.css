@@ -100,3 +100,8 @@ h6,
     border-top-color: #ffffff;
     border-bottom-color: #ffffff;
 }
+
+span.field-validation-error {
+    color: red;
+    font-weight: bold;
+}
